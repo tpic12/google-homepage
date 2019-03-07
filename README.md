@@ -1,0 +1,1 @@
+This is me rebuilding a website from scratchfor the first time.
